@@ -1,0 +1,11 @@
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.exe
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.deps.json
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.runtimeconfig.json
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.runtimeconfig.dev.json
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.dll
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\bin\Debug\netcoreapp3.1\FrequencyAnalysisOfText.pdb
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\obj\Debug\netcoreapp3.1\FrequencyAnalysisOfText.AssemblyInfoInputs.cache
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\obj\Debug\netcoreapp3.1\FrequencyAnalysisOfText.AssemblyInfo.cs
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\obj\Debug\netcoreapp3.1\FrequencyAnalysisOfText.dll
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\obj\Debug\netcoreapp3.1\FrequencyAnalysisOfText.pdb
+F:\FrequencyAnalysisOfText\FrequencyAnalysisOfText\obj\Debug\netcoreapp3.1\FrequencyAnalysisOfText.csprojAssemblyReference.cache

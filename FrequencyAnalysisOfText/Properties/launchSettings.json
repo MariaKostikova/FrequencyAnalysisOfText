@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FrequencyAnalysisOfText": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kosti\\Desktop\\Text.txt"
+    }
+  }
+}
